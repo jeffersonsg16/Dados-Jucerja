@@ -16,8 +16,8 @@ check.packages(pacotes)
 ################################# cARREGA COMPLEMENTOS NECESSÁRIOS ################################################################
 rm(list=ls())
 ano <- year(Sys.time())
-codesc <- read_xlsx("cod_jucerja.xlsx", sheet = 1)  
-codcons <- read_xlsx("cod_jucerja.xlsx", sheet = 2)
+codesc <- read_xlsx("suporte.xlsx", sheet = 1)  
+codcons <- read_xlsx("suporte.xlsx", sheet = 2)
 
 ################################# RASPAGEM DE DADOS COM REPETIDORES ###############################################################
 
