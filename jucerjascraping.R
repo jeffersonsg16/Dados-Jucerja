@@ -100,7 +100,6 @@ dff <- select(dff, competencia, cod_consulta, cod_escritorio, everything())
 dff$competencia <- as.Date(dff$competencia, format =  "%d/%m/%Y")
 
 
-str(dff)
 
 
 
