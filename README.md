@@ -1,4 +1,4 @@
-# Script de Análise de Dados de Consultas Jucerja
+# Script de Web Scraping da base do site da Junta Comercial do Estado do Rio de Janeiro (JUCERJA)
 
 Este script é projetado para realizar a raspagem e análise de dados de consultas da Jucerja. O processo inclui a instalação e carregamento de pacotes necessários, a raspagem de dados de páginas web, a combinação de dataframes e o ajuste do dataframe final para análise.
 
